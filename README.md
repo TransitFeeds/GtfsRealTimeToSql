@@ -1,2 +1,3 @@
 # GtfsRealTimeToSql
-https://github.com/OpenMobilityData/GtfsRealTimeToSql
+
+This feed has moved to https://github.com/OpenMobilityData/GtfsRealTimeToSql
